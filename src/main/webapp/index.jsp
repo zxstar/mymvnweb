@@ -8,6 +8,7 @@
     <h2>Hello World!</h2>
     <h3>jenkins test</h3>
     <h3>20200208 15:07</h3>
+    <h3>jenkins pipeline test. No github webhook</h3>
     <%-- 获取接口返回的参数  --%>
     name:${name}
     <br>
